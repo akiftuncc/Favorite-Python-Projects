@@ -1,5 +1,5 @@
 # These projects were created in 2021, at the start of my coding journey.
-(Sorry about spaghetti pattern)
+# || Sorry about spaghetti pattern ||
 
 This repository contains a collection of my favorite Python projects. Each project showcases different aspects of Python programming, from data processing to machine learning and computer vision.
 
